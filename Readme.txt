@@ -1,4 +1,4 @@
-You need 2 external files: http://www.filesend.net/download.php?f=81ad4dd2d944fb59359f7118957c1ae1
+You need 2 external files: http://tinyurl.com/d47o68f
 	SKYPE4COMLib.dll
 	Skype patched/deobfuscated whatever
 	
