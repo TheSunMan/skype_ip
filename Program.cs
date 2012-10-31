@@ -33,7 +33,7 @@ class Program
         try
         {
             Skype skype = new Skype(); // Set up
-            skype.Client.OpenUserInfoDialog(args[0]); // Open dialog
+            skype.SendMessage(args[0], ":-)");
         }
         catch
         {
