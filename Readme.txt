@@ -7,3 +7,5 @@ on.reg must be used to allow debug logs
 Must use x86
 
 Syntax: <skype username> <wait (ms)> [<directory>]
+
+Do not use unless you know what you are doing.

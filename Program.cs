@@ -45,8 +45,6 @@ class Program
 
         // Here we go.
         start_threads(username, dirpath);
-
-        Console.ReadLine();
     }
 
     static void start_threads(string username, string dirpath)
